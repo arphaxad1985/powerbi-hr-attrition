@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Power BI temp files
+~$*.pbix
+*.pbix~
